@@ -1,0 +1,278 @@
+*{
+    margin: 0;
+}
+.header{
+    background: #ff0000;
+    width: 100%;
+    height: 28px;
+}
+
+.header2{
+    background: #000;
+    width: 100%;
+    height: 93px;
+}
+.logo{
+   width: 33%;
+   float: left;
+}
+.shop{
+    width: 33%;
+    float: left;
+}
+.search{
+    width: 34%;
+    float: left;
+}
+
+.sample{
+    background: #000;
+}
+
+.img-width img{
+    background: #000;
+    width: 100px;
+    margin-left: 64px;
+    margin-top: 22px;
+}
+
+.offer-text{
+    margin-left: 539px;
+    font-size: 13px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+}
+.menu-options{
+    margin-top: 35px;
+    color: white;
+    background: #000;
+    margin-left: 71px;
+    font-weight: bold;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    border: 0;
+}
+.menu-options td:first-child select{
+    color: white;
+    background: #000;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.sail-with-boat{
+    padding-left: 18px;
+    font-weight: 500;
+    font-family: inherit;
+    border-left: 3px solid #ff0000;
+}
+
+.menu-options td:last-child select{
+        color: white;
+        background: #000;
+        font-size: 16px;
+        font-weight: bold;
+        margin: 0;
+        padding-left: 18px;
+        border-left: 3px solid #ff0000;
+}
+.search-options td:first-child input{
+    width: 188px;
+    margin-left: 89px;
+    margin-top: 13px;
+    height: 39px;
+    border-radius: 21px;
+    padding-left: 36px;
+    font-size: large;
+}
+.search i{
+    color: #000;
+    position: absolute;
+    left: 101px;
+    top: 28px;
+}
+
+.user-options{
+    display: flex;
+}
+.user-options img{
+    width: 25px;
+    height: 25px;
+    margin-left: 21px;
+    margin-top: 27px;
+}
+
+.body-img1{
+    width: 100%;
+    height: 50px;
+}
+
+.image1 img{
+    width: 100%;
+    height: 500px;
+}
+
+.bodyimg1{
+    background:black;
+    width: 100%;
+    height: 200px;
+}
+
+.text-fly{
+    color: aliceblue;
+    margin-left: 215px;
+    margin-top: -4px;
+    padding-top: 81px;
+    size: 137px;
+    font-size: x-large;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+}
+
+.fly-again{
+    color: aliceblue;
+    size: 110px;
+}
+
+.text-fly2{
+    color: aliceblue;
+    size: 110px;
+}
+
+.fly-again2{
+    color: aliceblue;
+    size: 210px;
+}
+
+.best-seller{
+    margin-left: 401px;
+    font-size: xxx-large;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-top: 27px;
+    margin-left: 570px;
+}
+
+.body-part2{
+    background: #000;
+    width: 100%;
+    height: 700px;
+}
+.content_body{
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+}
+.card {
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 330px;
+    float: left;
+    background: white;
+  }
+  
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(109, 86, 86, 0.2);
+  }
+  
+
+
+  .review img{
+    height: 44px;
+    width: 146px;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(124, 115, 115, 0.568);
+    margin-right: 70px;
+    transition: 0.3s;
+    border-radius: 5px; 
+    padding-bottom: 25px;
+    
+  }
+  
+  img {
+      background: #000;
+      width: 100%;
+    border-radius: 5px 5px 0 0;
+  }  
+
+  .price{
+      color: #ff0000;
+  
+  }
+  .properties{
+      font-weight: bold;
+      list-style: none;
+  }
+
+  .property-list{
+      list-style: none;
+  }
+
+ .footer{
+     width: 100%;
+     height: 400px;
+     background-color: #000;
+     flex-flow: row wrap;
+ }
+ .footer .footr_content{
+     padding: 53px 5%;
+     display: flex;
+     justify-content: space-between;
+ }
+ .footer .footr_content .foot-part{
+     color: white;
+
+
+ }
+ .foot-part img{
+     width: 110px;
+     margin-bottom: 50px;
+ }
+
+ .button{
+    background: #000;
+    border: 2px solid red;
+    width: 137px;
+    height: 37px;
+    color: white;
+    font-size: larger;
+    font-family: monospace;
+    cursor: pointer;
+ }
+ .foot-part .subscribe input{
+     padding: 9px 27px;
+ }
+ .foot-part .foo_text p{
+     font-size: 15px;
+ }
+.foot-part p{
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-family: system-ui;
+}
+.foot-part li,
+.foot-part ul{
+    list-style: none;
+    padding-left:0 ;
+    ;
+}
+.adjust{
+    font-size: 15px;
+    font-family: monospace;
+    margin-block: 16px;
+}
+.content_body img{
+    background: #6c757d;
+}
+.flaunt{
+    display: flex;
+}
+.flaunt p{
+    font-size: 14px;
+}
+
